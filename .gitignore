@@ -1,0 +1,7 @@
+.venv
+README1.md
+REPORTPROGRESS.md
+use.md
+src\__pycache__
+srcipts\__pycache__
+.pytest_cache

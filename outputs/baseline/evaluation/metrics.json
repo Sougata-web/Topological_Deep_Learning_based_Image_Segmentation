@@ -1,0 +1,18 @@
+{
+  "dice": 0.9519449457373931,
+  "iou": 0.9083443436360468,
+  "precision": 0.9566489705236078,
+  "recall": 0.9474843892717226,
+  "accuracy": 0.9235903422037408,
+  "ari": 0.6768680842369856,
+  "voi": 0.7192129621492432,
+  "betti0_error": 0.578125,
+  "betti1_error": 0.09375,
+  "betti_error": 0.671875,
+  "euler_error": 0.609375,
+  "assd": 1.2775504304184568,
+  "inference_seconds_per_slice": 1.530904716666555,
+  "inference_seconds_std": 3.2265107763923444,
+  "evaluated_slices": 6.0,
+  "assd_nonfinite_slices": 0.0
+}
